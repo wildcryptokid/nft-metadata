@@ -1,0 +1,31 @@
+{
+    "version": "1.0",
+    "token_standard": "ERC-721",
+    "description": "WildNFTImages #WNFT - A collection of unique digital art pieces celebrating the power of AI creativity.",
+    "external_links": {
+        "website": "https://wildcryptokid.com/",
+        "x": "https://x.com/wildcryptokid"
+    },
+    "image": "https://raw.githubusercontent.com/wildcryptokid/images/refs/heads/main/eth_sepolia/nft_2.jpeg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "name": "WildNFT #2: Cat at Office with Bitcoin Necklace",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Animal"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Office"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bitcoin Necklace"
+        }
+    ]
+}
