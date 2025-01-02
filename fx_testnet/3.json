@@ -26,6 +26,10 @@
         {
             "trait_type": "Accessory",
             "value": "Fireworks"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "FX Testnet"
         }
     ]
 }

@@ -26,6 +26,10 @@
         {
             "trait_type": "Accessory",
             "value": "Wings"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "FX Testnet"
         }
     ]
 }

@@ -26,6 +26,10 @@
         {
             "trait_type": "Accessory",
             "value": "Rocket"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "FX Testnet"
         }
     ]
 }

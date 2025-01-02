@@ -26,6 +26,10 @@
         {
             "trait_type": "Accessory",
             "value": "Bitcoin Hat"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "Eth Sepolia"
         }
     ]
 }

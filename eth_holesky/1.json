@@ -26,6 +26,10 @@
         {
             "trait_type": "Accessory",
             "value": "Trading Charts"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "Eth Holesky"
         }
     ]
 }
