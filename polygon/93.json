@@ -1,0 +1,35 @@
+{
+    "version": "1.0",
+    "token_standard": "ERC-721",
+    "description": "WildNFTImages #WNFT - A collection of unique digital art pieces celebrating the power of AI creativity.",
+    "external_links": {
+        "website": "https://wildcryptokid.com/",
+        "x": "https://x.com/wildcryptokid"
+    },
+    "image": "https://raw.githubusercontent.com/wildcryptokid/images/refs/heads/main/polygon/nft_93.jpeg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "name": "WildNFT #93: Bitcoin in Field with Grass",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Cryptocurrency"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Field"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "Polygon"
+        }
+    ]
+}

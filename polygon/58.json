@@ -1,0 +1,35 @@
+{
+    "version": "1.0",
+    "token_standard": "ERC-721",
+    "description": "WildNFTImages #WNFT - A collection of unique digital art pieces celebrating the power of AI creativity.",
+    "external_links": {
+        "website": "https://wildcryptokid.com/",
+        "x": "https://x.com/wildcryptokid"
+    },
+    "image": "https://raw.githubusercontent.com/wildcryptokid/images/refs/heads/main/polygon/nft_58.jpeg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "name": "WildNFT #58: Magical Castle in Magical Forest with Bitcoin",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Structure"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Magical Castle"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Magical Forest"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Bitcoin"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "Polygon"
+        }
+    ]
+}
