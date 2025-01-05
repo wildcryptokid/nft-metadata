@@ -1,0 +1,35 @@
+{
+    "version": "1.0",
+    "token_standard": "ERC-721",
+    "description": "WildNFTImages #WNFT - A collection of unique digital art pieces celebrating the power of AI creativity.",
+    "external_links": {
+        "website": "https://wildcryptokid.com/",
+        "x": "https://x.com/wildcryptokid"
+    },
+    "image": "https://raw.githubusercontent.com/wildcryptokid/images/refs/heads/main/base/nft_11.jpeg",
+    "image_width": 1024,
+    "image_height": 1024,
+    "name": "WildNFT #11: Mythical Octopus in Water with Flowers",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Creature"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Mythical Octopus"
+        },
+        {
+            "trait_type": "Environment",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Flowers"
+        },
+        {
+            "trait_type": "Chain",
+            "value": "Base"
+        }
+    ]
+}
